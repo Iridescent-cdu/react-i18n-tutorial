@@ -1,0 +1,9 @@
+{
+  "title": "current title is {{title}} {{ count }}",
+  "hello": "hello",
+  "world": "world",
+  "userInfo": {
+    "name": "name",
+    "age": "age"
+  }
+}

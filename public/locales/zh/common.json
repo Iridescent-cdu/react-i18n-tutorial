@@ -1,0 +1,9 @@
+{
+  "title": "当前标题为 {{ title }} {{count}}",
+  "hello": "你好",
+  "world": "世界",
+  "userInfo": {
+    "name": "昵称",
+    "age": "年龄"
+  }
+}
